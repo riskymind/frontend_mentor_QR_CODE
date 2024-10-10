@@ -4,11 +4,12 @@
 
 # Frontend Mentor - QR code component
 
-This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa).
+<!-- This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). -->
 
 ## Overview
 
-Your challenge is to build out this product preview card component and get it looking as close to the design as possible.
+
+Your challenge is to build out this QR code component and get it looking as close to the design as possible.
 
 You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
 
@@ -17,11 +18,10 @@ You can use any tools you like to help you complete the challenge. So if you've 
 Users should be able to:
 
 - View the optimal layout depending on their device's screen size
-- See hover and focus states for interactive elements
 
 ### Screenshot
 
-![](./design/screenshot1.png)
+<!-- ![](./design/screenshot1.png) -->
 
 ### Links
 
@@ -33,4 +33,5 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
+
 - Mobile-first workflow
